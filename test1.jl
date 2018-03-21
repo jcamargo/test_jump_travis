@@ -21,3 +21,5 @@ println("x = ", JuMP.getvalue(va) )
 α=1
 β=3α
 γ=α+β
+
+print("α is equal to ", α)
