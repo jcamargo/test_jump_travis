@@ -1,3 +1,4 @@
 language: julia
+os: windows
 rvm:
  - 0.4
